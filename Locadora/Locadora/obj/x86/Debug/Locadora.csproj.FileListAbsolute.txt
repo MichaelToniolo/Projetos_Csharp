@@ -1,0 +1,12 @@
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\Locadora.frmConexao.resources
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\Locadora.Properties.Resources.resources
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\Locadora.exe
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\Locadora.pdb
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\Locadora.frmPrincipal.resources
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\Locadora.frmUsuario.resources
+C:\Users\Saraiva\Documents\Projetos C#\Locadora\Locadora\obj\x86\Debug\Locadora.FrmFilme.resources
