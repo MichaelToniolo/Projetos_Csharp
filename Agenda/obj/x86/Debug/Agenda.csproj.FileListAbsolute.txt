@@ -1,0 +1,9 @@
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\bin\Debug\Agenda.exe
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\bin\Debug\Agenda.pdb
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\obj\x86\Debug\Agenda.frmPrincipal.resources
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\obj\x86\Debug\Agenda.Properties.Resources.resources
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\obj\x86\Debug\Agenda.exe
+C:\Users\Saraiva\Documents\Projetos C#\Agenda\Agenda\obj\x86\Debug\Agenda.pdb
