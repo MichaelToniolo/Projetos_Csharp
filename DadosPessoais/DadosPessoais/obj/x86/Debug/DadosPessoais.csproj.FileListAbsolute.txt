@@ -1,0 +1,9 @@
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\bin\Debug\DadosPessoais.exe
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\bin\Debug\DadosPessoais.pdb
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\obj\x86\Debug\DadosPessoais.frmPrincipal.resources
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\obj\x86\Debug\DadosPessoais.Properties.Resources.resources
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\obj\x86\Debug\DadosPessoais.exe
+C:\Users\Saraiva\Documents\Projetos C#\DadosPessoais\DadosPessoais\obj\x86\Debug\DadosPessoais.pdb
