@@ -1,0 +1,49 @@
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.frmPrincipal.resources
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.frmcadastro.resources
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.Properties.Resources.resources
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Fagner\Desktop\FF\FF\bin\Debug\FF.exe
+C:\Users\Fagner\Desktop\FF\FF\bin\Debug\FF.pdb
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.exe
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.pdb
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.entrada.resources
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.frmpesquisafornecedor.resources
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.baixa.resources
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.frmRelatorio.resources
+C:\Users\Fagner\Desktop\FF\FF\obj\x86\Debug\FF.frmPendentes.resources
+C:\Users\Fagner\Desktop\FF\FF\bin\Debug\FF.exe.config
+C:\Users\Fagner\Desktop\FF\FF\bin\Debug\Reports.dll
+G:\Nova pasta\FF\FF\bin\Debug\FF.exe.config
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.exe
+G:\Nova pasta\FF\FF\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.baixa.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.entrada.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.frmPrincipal.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.frmcadastro.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.frmPendentes.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.frmpesquisafornecedor.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.frmRelatorio.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.Properties.Resources.resources
+G:\Nova pasta\FF\FF\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Nova pasta\FF\FF\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Nova pasta\FF\FF\bin\Debug\FF.exe
+G:\Nova pasta\FF\FF\bin\Debug\FF.pdb
+G:\Nova pasta\FF\FF\obj\x86\Debug\FF.pdb
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\bin\Debug\FF.exe.config
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.exe
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.pdb
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\bin\Debug\FF.exe
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\bin\Debug\FF.pdb
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\ResolveAssemblyReference.cache
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.baixa.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.entrada.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.frmPrincipal.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.frmcadastro.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.frmPendentes.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.frmpesquisafornecedor.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.frmRelatorio.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\FF.Properties.Resources.resources
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\GenerateResource.read.1.tlog
+\\Vboxsvr\e_drive\Nova pasta\FF\FF\obj\x86\Debug\GenerateResource.write.1.tlog
